@@ -4,7 +4,9 @@ Hallo und herzlich Willkommen zum Thema OpenEducationBadges (OEB). Auf den folge
 
 # Für Lehrend und Lernende 🧑‍🏫&🧑‍🎓: historische Verortung und Verbreitung von OEB 
 __Definition und Bedeutung__: Open Education Badges (OEB) sind digitale Abzeichen, die zur Anerkennung und Sichtbarmachung von Fähigkeiten, Leistungen oder Engagement in unterschiedlichen Bildungs- und Kompetenzbereichen verliehen werden. Sie sind nicht bloß dekorative Grafiken, sondern fungieren als digitale Zertifikate, die detaillierte Metadaten enthalten. Diese Metadaten dokumentieren zentral wichtige Informationen wie die ausstellende Institution, die Empfänger*innen sowie die zugrunde liegenden Vergabekriterien.
-__Transparenz und Nachvollziehbarkeit__: Die digitale Struktur von OEB gewährleistet eine hohe Transparenz und Nachvollziehbarkeit. Sie erlaubt eine eindeutige Verifizierung der Informationen und sichert damit die Glaubwürdigkeit der dargestellten Kompetenzen. Diese Merkmale machen OEB zu einem wichtigen Instrument für die Darstellung informeller und formaler Bildungsleistungen in einer zunehmend digitalisierten Bildungslandschaft.
+
+__Transparenz und Nachvollziehbarkeit__: Die digitale Struktur von OEB gewährleistet eine hohe Transparenz und Nachvollziehbarkeit. 
+Sie erlaubt eine eindeutige Verifizierung der Informationen und sichert damit die Glaubwürdigkeit der dargestellten Kompetenzen. Diese Merkmale machen OEB zu einem wichtigen Instrument für die Darstellung informeller und formaler Bildungsleistungen in einer zunehmend digitalisierten Bildungslandschaft.
 Die Implementierung von Open Education Badges an Hochschulen unterstützt nicht nur die Individualisierung und Flexibilisierung von Lernwegen, sondern trägt auch zur Anerkennung non-formaler Lernprozesse bei und schafft eine Verbindung zwischen akademischen und beruflichen Kontexten und trägt damit auch zur sozialen Mobilität bei (vgl. Zander 2024).
 
 <div style="width:100%;height:0;padding-bottom:51%;position:relative;"><iframe src="https://giphy.com/embed/jV6w43QtI57Tq" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/90s-badges-aot-2o15-jV6w43QtI57Tq">via GIPHY</a></p>
@@ -21,21 +23,29 @@ Die Vergabe und Nutzung von Open Education Badges basiert auf einem strukturiert
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/0PxaWGuEYgTiFoL3JN" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/nts-relax-we-care-netzwerk-telekom-services-0PxaWGuEYgTiFoL3JN">via GIPHY</a></p>
 
 1. __Erstellung__: Bildungseinrichtungen, Unternehmen oder Organisationen entwerfen spezifische Open Education Badges, die klar definierte Kriterien für ihren Erwerb enthalten. Diese Kriterien können unterschiedlichste Leistungen umfassen, wie beispielsweise das Absolvieren eines Kurses, das Bestehen einer Prüfung, der Erwerb bestimmter Fähigkeiten oder herausragende Erfolge.
+
 2. __Verifizierung__: Sobald eine Person die erforderlichen Kriterien erfüllt, wird die Leistung durch die ausstellende Institution überprüft und verifiziert. Dieser Schritt stellt sicher, dass das Abzeichen ausschließlich an Personen verliehen wird, die die festgelegten Anforderungen erfüllt haben.
+
 3.	__Vergabe__: Nach erfolgreicher Verifizierung wird das Abzeichen digital an den Empfänger übermittelt. Dieser kann es in seinem persönlichen digitalen Portfolio speichern und auf verschiedenen Plattformen, in Bewerbungsunterlagen oder in sozialen Netzwerken präsentieren.
+
 4.	__Überprüfung__: Open Education Badges sind mit umfassenden Metadaten ausgestattet, die Details zu den Kriterien, der ausstellenden Institution und den erworbenen Kompetenzen enthalten. Diese Metadaten ermöglichen es Dritten – beispielsweise potenziellen Arbeitgebern –, die Echtheit und Relevanz des Abzeichens mühelos zu überprüfen. Diese Transparenz stärkt das Vertrauen in die Aussagekraft und Authentizität der Badges.
 
 # Für Lehrend und Lernende 🧑‍🏫&🧑‍🎓:Essenzielle Bedeutung von Open Education Badges (OEB)
 
 Die Relevanz von Open Education Badges (OEB) ist auf verschiedene Schlüsselaspekte zurückzuführen, die die moderne Bildungslandschaft prägen:
+
 1. __Flexibilität__
 OEB bieten eine vielseitige Möglichkeit zur Anerkennung von Kompetenzen. Sie decken ein breites Spektrum ab, das von formalen Bildungsabschlüssen bis hin zu informellen Lernprozessen und spezifischen Fähigkeiten reicht, die in traditionellen Zertifikaten oft nicht abgebildet werden. Dies ermöglicht eine individuelle und bedarfsgerechte Dokumentation von Lernerfolgen.
+
 2. __Transparenz__
 Ein zentraler Vorteil von OEB liegt in ihrer hohen Nachvollziehbarkeit. Die in jedem Badge hinterlegten Metadaten enthalten detaillierte Informationen darüber, welche Kriterien erfüllt wurden, wer das Abzeichen ausgestellt hat und unter welchen Bedingungen es vergeben wurde. Diese Transparenz schafft Vertrauen bei Arbeitgebern, Bildungseinrichtungen und anderen Interessierten.
+
 3. __Teilbarkeit__
 Die digitale Natur der Open Badges ermöglicht eine einfache Integration in soziale Netzwerke, Online-Portfolios oder Bewerbungsplattformen. Dadurch wird die Sichtbarkeit von Kompetenzen und Leistungen erheblich gesteigert. Lernende können ihre Erfolge gezielt einem globalen Publikum präsentieren, was ihre beruflichen und akademischen Möglichkeiten erweitert.
+
 4. __Motivation__
 OEB sind auch ein effektives Instrument zur Förderung von Lernmotivation. Sie bieten Lernenden klar definierte Ziele und visualisieren Fortschritte auf anschauliche Weise. Besonders in digitalen Lernumgebungen steigern sie das Engagement, indem sie greifbare Erfolge sichtbar machen.
+
 5. __Förderung des lebenslangen Lernens__
 Open Education Badges unterstützen das Konzept des lebenslangen Lernens, indem sie sowohl formale als auch informelle Lernprozesse wertschätzen und sichtbar machen. In einer Welt, die sich durch schnellen technologischen und gesellschaftlichen Wandel auszeichnet, ist diese Anerkennung kontinuierlichen Lernens unverzichtbar (vgl. Zander 2024).
 
@@ -105,8 +115,11 @@ Badges sind digitale Abzeichen, die spezifische Leistungen oder Fähigkeiten sic
 Moodle, als weit verbreitetes Lernmanagementsystem (LMS), bietet integrierte Funktionen zur Gamification, insbesondere durch die Erstellung und Vergabe von Badges.  
 
 1. **Erstellung von Badges**: Lehrende können Badges direkt in Moodle gestalten und an festgelegte Kriterien koppeln, z. B. das Bestehen eines Tests oder die Teilnahme an Aktivitäten.  
+
 2. **Gamifizierte Kurse**: Moodle unterstützt die Integration von Elementen wie Ranglisten, Fortschrittsbalken oder Belohnungen, die den Lernprozess interaktiver gestalten.  
+
 3. **Motivationssteigerung**: Lernende können ihre Badges in ihrem Profil anzeigen oder in sozialen Netzwerken teilen, was ihren Fortschritt sichtbar macht und Anerkennung fördert.  
+
 ### weitere Gamificationelemente abgesehen von Badges
 Die folgenden Videos geben Inspirationen, wie Lehre gamifiziert werden kann unabhängig von Badges
 
