@@ -145,18 +145,24 @@ Folgendes Video zeigt, wie Badges in Moodle angelegt und verwaltet werden. Im n�
 
 Die kleinen Pictogramme müssen bevor sie übrhaupt in Moodle eingespielt werden können zunächst einmal selbständig designt werden. Allerdings und dies ist die gute Nachricht für alle jene unter uns die nicht mit künstlerischen Talent gesegnet wurden gibt es einige Bezugsquellen von denen auch fertige und frei lizensierte Badges bezogen werden können. Zunächst aber ersteinmal die verschiedenen Möglichkeiten zum Designen von Badges.
 
-### Badges mit PowerPoint erstellen
+### Badges mit PowerPoint gestalten
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZZ241SaroXU?si=vGBmCe0HeQZ5txx_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Bezugsquelle der Vorlage: [googledrive.com](https://drive.google.com/file/d/1VSgAJJOFQ8HF7GvVn10OGOuYYOBGXBL-/view) 
 
-## Badges mit eduvidual.at
+## Badges mit eduvidual.at gestalten
 Auf der Website [eduvidual.at](https://www.eduvidual.at) können nach Anmeldung auch Badges generiert werden, wie folgende 📹 Video zeigt.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IrmTPdnrgdY?si=cAEJPYYCfspE6p1K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Badges mit Icon-Creator 
+## Badges mit Icon-Creator gestalten
 Die Website [quizdidaktik.de](https://www.quizdidaktik.de/icon-generator-bildungsinhalte/index.html) erlaubt es eigene Pictogramme zu generieren und weiterzuverwenden. Der Vorteil ist, dass hier bereits Vorschläge auf Grundlage von Vorangaben generiert werden.
+
+## Badges mit 3D Badgemaker gestalten
+Auf der Website [onlinebadgemaker.com](http://www.onlinebadgemaker.com/3d-badge-maker) können Badges in 3 D Look gestalten
+
+## Badges mit openbadges.me gestalten
+Auf der Website [openbadges.me](https://app.openbadges.me/) kann nach einer kostenfreien Regstrierung selbst Badges mittels Grafoikbuilder Badges erstellt werden. Die folgende 📹 Videoliste gibt eine differenzierte Hilfestellung [youtube](https://www.youtube.com/watch?v=Qtq5pLsRZ_k&list=PLl7A9-faRl97md3lYmyhtDAjQfLUMv-zL)
 
 ## Badges mit Chatbots
 Mit Hilfe von Chatbots können auch Badgets generiert werden. Der folgende Promt kann hierhingehend hilfreich sein
