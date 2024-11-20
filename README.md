@@ -1,5 +1,4 @@
 # FH_OpenEducationBages-OEB-
-# FH_OpenEducationBages-OEB-
 <div style="width:100%;height:0;padding-bottom:69%;position:relative;"><iframe src="https://giphy.com/embed/z24q9PQNlw19u" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/z24q9PQNlw19u">via GIPHY</a></p>
 Hallo und herzlich Willkommen zum Thema OpenEducationBadges (OEB). Auf den folgenden Seiten werden die wichtigsten Informationen zu OEB sowohl für Lehrende als auch für Lernende zusammengestellt.
 
