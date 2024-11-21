@@ -88,7 +88,7 @@ Zur Realisierung von Open Badges im Sinne der Open Education Badges stehen versc
 
 Sofern durch Lehrende Badges im Sinne der Gamification-Ansatzes genutzt werden sollen bietet es sich an die Möglichkeiten von Moodle zum Einsatz von Gamification und Badges zu nutzen. 
 
-### **Gamification: Eine Einführung für Hochschullehrende**
+### Gamification: Eine Einführung für Hochschullehrende
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/dkUtjuBEdICST5zG7p" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/SYBOGAMES-gaming-mobile-games-subway-surfers-dkUtjuBEdICST5zG7p">via GIPHY</a></p>
 
 
@@ -163,6 +163,9 @@ Auf der Website [onlinebadgemaker.com](http://www.onlinebadgemaker.com/3d-badge-
 
 ## Badges mit openbadges.me gestalten
 Auf der Website [openbadges.me](https://app.openbadges.me/) kann nach einer kostenfreien Regstrierung selbst Badges mittels Grafoikbuilder Badges erstellt werden. Die folgende 📹 Videoliste gibt eine differenzierte Hilfestellung [youtube](https://www.youtube.com/watch?v=Qtq5pLsRZ_k&list=PLl7A9-faRl97md3lYmyhtDAjQfLUMv-zL)
+
+## Badges mit badge.design gestalten
+Auf der Website [badge.design](https://badge.design/) besteht die Möglichkeit eigene Badges mittels Vorlagen zu erstellen und als SVG bzw. PNG Datei downzuloaden.
 
 ## Badges mit Chatbots
 Mit Hilfe von Chatbots können auch Badgets generiert werden. Der folgende Promt kann hierhingehend hilfreich sein
